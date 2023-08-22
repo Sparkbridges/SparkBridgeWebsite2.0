@@ -72,13 +72,13 @@
                 economic growth and foster innovation.
               </p>
               <a
-                href=""
+                href="/contact"
                 class="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft"
                 >Contact Us</a
               >
               <!-- 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 -->
 
-              git remote set-url origin https://chinedu16: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@github.com/chinedu16/SparkBrigdesWebsite.git
+              <!-- git remote set-url origin https://chinedu16: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@github.com/chinedu16/SparkBrigdesWebsite.git -->
               <!-- <a
                 href=""
                 class="btn btn-outline-light py-sm-3 px-sm-5 rounded-pill animated slideInRight"
@@ -133,28 +133,30 @@
             <div class="section-title position-relative mb-4 pb-2">
               <h6 class="position-relative text-primary ps-4">About Us</h6>
               <h2 class="mt-2">
-                The best SEO solution with 10 years of experience
+                Collaboration, Excellence, and Empowerment
               </h2>
             </div>
             <p class="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor
-              sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem
-              et sit, sed stet no labore lorem sit. Sanctus clita duo justo et
-              tempor eirmod magna dolore erat amet
+              Introducing Spark Bridge LLC (SB), where technology meets
+              opportunity. We are a leading IT and tech outsourcing company
+              dedicated to empowering the African economy and nurturing the
+              talents of African youths. At Spark Bridge, we specialize in a
+              wide range of services, including graphic design, software
+              development, web and mobile applications, social media marketing,
+              and video content creation.
             </p>
             <div class="row g-3">
               <div class="col-sm-6">
                 <h6 class="mb-3">
-                  <i class="fa fa-check text-primary me-2"></i>Award Winning
+                  <i class="fa fa-check text-primary me-2"></i>Collaboration
                 </h6>
                 <h6 class="mb-0">
-                  <i class="fa fa-check text-primary me-2"></i>Professional
-                  Staff
+                  <i class="fa fa-check text-primary me-2"></i>Excellence
                 </h6>
               </div>
               <div class="col-sm-6">
                 <h6 class="mb-3">
-                  <i class="fa fa-check text-primary me-2"></i>24/7 Support
+                  <i class="fa fa-check text-primary me-2"></i>Empowerment
                 </h6>
                 <h6 class="mb-0">
                   <i class="fa fa-check text-primary me-2"></i>Fair Prices
@@ -162,7 +164,7 @@
               </div>
             </div>
             <div class="d-flex align-items-center mt-4">
-              <a class="btn btn-primary rounded-pill px-4 me-3" href=""
+              <a class="btn btn-primary rounded-pill px-4 me-3" href="/about"
                 >Read More</a
               >
               <a class="btn btn-outline-primary btn-square me-3" href=""
@@ -201,7 +203,7 @@
           <div class="col-12 col-md-6">
             <h3 class="text-white">Ready to get started</h3>
             <small class="text-white"
-              >Diam elitr est dolore at sanctus nonumy.</small
+              >Send us your email and we would get back to you.</small
             >
             <div class="position-relative w-100 mt-3">
               <input
@@ -250,7 +252,8 @@
               <div class="service-icon flex-shrink-0">
                 <i class="fa fa-home fa-2x"></i>
               </div>
-              <h5 class="mb-3">SEO Optimization</h5>
+
+              <h5 class="mb-3">Graphic Design</h5>
               <p>
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
                 sed diam stet diam sed stet lorem.
@@ -265,7 +268,8 @@
               <div class="service-icon flex-shrink-0">
                 <i class="fa fa-home fa-2x"></i>
               </div>
-              <h5 class="mb-3">Web Design</h5>
+              <h5 class="mb-3">Software
+              Development</h5>
               <p>
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
                 sed diam stet diam sed stet lorem.
@@ -280,7 +284,7 @@
               <div class="service-icon flex-shrink-0">
                 <i class="fa fa-home fa-2x"></i>
               </div>
-              <h5 class="mb-3">Social Media Marketing</h5>
+              <h5 class="mb-3">Web and Mobile Applications</h5>
               <p>
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
                 sed diam stet diam sed stet lorem.
@@ -295,7 +299,7 @@
               <div class="service-icon flex-shrink-0">
                 <i class="fa fa-home fa-2x"></i>
               </div>
-              <h5 class="mb-3">Email Marketing</h5>
+              <h5 class="mb-3">Social Media Marketing</h5>
               <p>
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
                 sed diam stet diam sed stet lorem.
@@ -310,7 +314,7 @@
               <div class="service-icon flex-shrink-0">
                 <i class="fa fa-home fa-2x"></i>
               </div>
-              <h5 class="mb-3">PPC Advertising</h5>
+              <h5 class="mb-3">Video Content Creation</h5>
               <p>
                 Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
                 sed diam stet diam sed stet lorem.
@@ -378,6 +382,7 @@
                   ><i class="fa fa-plus fa-2x text-primary"></i
                 ></a>
                 <div class="mt-auto">
+                  
                   <small class="text-white"
                     ><i class="fa fa-folder me-2"></i>Web Design</small
                   >
