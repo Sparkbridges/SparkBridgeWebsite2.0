@@ -44,11 +44,11 @@
           </div>
           <div class="col-md-6 col-lg-3">
             <h5 class="text-white mb-4">Popular Link</h5>
-            <a class="btn btn-link" href="">About Us</a>
-            <a class="btn btn-link" href="">Contact Us</a>
-            <a class="btn btn-link" href="">Privacy Policy</a>
-            <a class="btn btn-link" href="">Terms & Condition</a>
-            <a class="btn btn-link" href="">Career</a>
+            <a class="btn btn-link" href="/about-us">About Us</a>
+            <a class="btn btn-link" href="/contact-us">Contact Us</a>
+            <a class="btn btn-link" href="/privacy-policy">Privacy Policy</a>
+            <a class="btn btn-link" href="/terms-and-conditions">Terms & Condition</a>
+            <a class="btn btn-link" href="/contact-us">Join Us</a>
           </div>
           <div class="col-md-6 col-lg-3">
             <h5 class="text-white mb-4">Project Gallery</h5>
@@ -100,8 +100,7 @@
           <div class="col-md-6 col-lg-3">
             <h5 class="text-white mb-4">Newsletter</h5>
             <p>
-              Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi.
-              Curabitur facilisis ornare velit non vulpu
+              Receive emails on real-time product updates, industry tips, news and guides
             </p>
             <div class="position-relative w-100 mt-3">
               <input
@@ -129,10 +128,10 @@
             </div>
             <div class="col-md-6 text-center text-md-end">
               <div class="footer-menu">
-                <a href="">Home</a>
-                <a href="">Cookies</a>
-                <a href="">Help</a>
-                <a href="">FQAs</a>
+                <a href="/">Home</a>
+                <a href="/privacy-policy">Cookies</a>
+                <a href="/contact-us">Help</a>
+                <a href="/contact-us">FAQs</a>
               </div>
             </div>
           </div>
