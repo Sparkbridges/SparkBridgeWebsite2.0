@@ -82,3 +82,7 @@ export default {}
 </script>
 
 <style lang="scss" scoped></style>
+
+<!-- git remote add origin https://github.com/Sparkbridges/SparkBridgeWebsite2.0.git
+
+git remote set-url origin https://Sparkbridges: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@github.com/Sparkbridges/SparkBridgeWebsite2.0.git -->
